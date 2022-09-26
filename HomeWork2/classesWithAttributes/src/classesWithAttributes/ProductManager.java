@@ -1,9 +1,10 @@
 package classesWithAttributes;
 
 public class ProductManager {
-	public void Add(Product product) {
+	//public void Add(Product product) {
 		// JDBC
-		System.out.println("ürün eklendi " + product.name);
+		//System.out.println("ürün eklendi " + product.name);
 
-	}
+	//}
+	
 }
